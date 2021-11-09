@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <gupdate xmlns='http://www.google.com/update2/response' protocol='2.0'>
   <app appid='epkipbhpeliomgnggflimijpindkcdac'>
-    <updatecheck codebase='https://gateway-dev.corp.chartercom.com/static/charter-external-analytics-tool/0.1.0-SNAPSHOT/ceat.crx' version='1.0' />
+    <updatecheck codebase='https://raw.githubusercontent.com/huisenwu/fluffy-garbanzo/main/ceat.crx' version='1.0' />
   </app>
 </gupdate>
